@@ -81,9 +81,6 @@ class Solicitud: Public Usuario, Public Plan{
 void añadirPlan();
 void filtrarPlanesPorGrado();
 
-//
-
-
 
 
 
